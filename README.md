@@ -23,5 +23,7 @@ git push heroku branch_name:main
 ```
 
 make shore to install heroku cli first
+### Better to push on heroku with github actions
+Check github action tempelate for referance
 
 do visit ormconfig.js file before pushing to heroku you need to make a little change there. which is mentioned there
